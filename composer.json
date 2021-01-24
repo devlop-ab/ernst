@@ -1,0 +1,18 @@
+{
+    "name": "devlop/ernst",
+    "description": "Ernst quote repository",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johan Rosenson",
+            "email": "johan@devlop.se"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devlop\\Ernst\\": "src/"
+        }
+    }
+}

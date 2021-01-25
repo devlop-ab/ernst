@@ -5,4 +5,4 @@
 
 # Ernst
 
-Ernst quote repository
+Ernst Kirchsteiger quote repository
